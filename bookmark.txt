@@ -1,0 +1,1 @@
+javascript:alert(JSON.stringify(FB_PUBLIC_LOAD_DATA_));void 0
